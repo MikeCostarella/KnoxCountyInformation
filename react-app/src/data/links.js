@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Beacon (Schneider Geospatial)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Knox County Government", category: "Government", subcategory: "County", url: "https://co.knox.oh.us/", description: "Official Knox County government portal" },
